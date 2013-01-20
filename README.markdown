@@ -1,4 +1,4 @@
 HTML/CSS Project Template
 =========================
 
-A starting point for small HTML/CSS projects. 
+A starting point for small web projects. 
